@@ -7,14 +7,18 @@ Aplikasi ini merupakan interface dengan Java Swing GUI untuk mengelola data maha
 ## Mahasiswa
 Merupakan class untuk data mahasiswa.
 Terdiri dari atribut:
-1. NIM, Nomor Induk Mahasiswa yang unik dimiliki setiap mahasiswa.
-2. Nama, Nama pribadi yang dimiliki mahasiswa.
-3. Jenis Kelamin, Jenis kelamin mahasiswa tersebut.
-4. Status Mahasiswa, Status keaktifan saat menjalani perkuliahan.
+### 1. NIM
+Nomor Induk Mahasiswa yang unik dimiliki setiap mahasiswa.
+### 2. Nama
+Nama pribadi yang dimiliki mahasiswa.
+### 3. Jenis Kelamin
+Jenis kelamin mahasiswa tersebut.
+### 4. Status Mahasiswa
+Status keaktifan saat menjalani perkuliahan.
 
 Terdiri dari method:
-1. Getter
-2. Setter
+### 1. Getter
+### 2. Setter
 
 # Penjelasan Alur
 # Dokumentasi
