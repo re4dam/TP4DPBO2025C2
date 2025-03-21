@@ -1,9 +1,23 @@
 # Tugas Praktikum 4 Desain Pemrograman Berorientasi Objek 2025
 Saya Zaki Adam dengan NIM 2304934 mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk Keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-## Desain Program
-## Penjelasan Alur
-## Dokumentasi
+# Desain Program
+Aplikasi ini merupakan interface dengan Java Swing GUI untuk mengelola data mahasiswa yang meliputi NIM, nama, kelamin, dan status keaktifan. Aplikasi ini berkemampuan untuk menambah, memperbarui, dan menghapus data-data mahasiswa.
+
+## Mahasiswa
+Merupakan class untuk data mahasiswa.
+Terdiri dari atribut:
+1. NIM, Nomor Induk Mahasiswa yang unik dimiliki setiap mahasiswa.
+2. Nama, Nama pribadi yang dimiliki mahasiswa.
+3. Jenis Kelamin, Jenis kelamin mahasiswa tersebut.
+4. Status Mahasiswa, Status keaktifan saat menjalani perkuliahan.
+
+Terdiri dari method:
+1. Getter
+2. Setter
+
+# Penjelasan Alur
+# Dokumentasi
 
 # Desain dan Alur Kerja Aplikasi Manajemen Mahasiswa
 
