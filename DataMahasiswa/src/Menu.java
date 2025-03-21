@@ -75,8 +75,8 @@ public class Menu extends JFrame{
         statusGroup.add(aktifRadioButton);
         statusGroup.add(cutiRadioButton);
 
-        // Set default status ke "Aktif"
-        aktifRadioButton.setSelected(true);
+        // Set default status ke kosong
+        aktifRadioButton.setSelected(false);
 
         // sembunyikan button delete
         deleteButton.setVisible(false);
@@ -238,7 +238,9 @@ public class Menu extends JFrame{
         nimField.setText("");
         namaField.setText("");
         jenisKelaminComboBox.setSelectedItem("");
-        aktifRadioButton.setSelected(true);
+
+        // kosongkan pilihan dari radio button
+        statusGroup.clearSelection();
 
         // ubah button "Update" menjadi "Add"
         addUpdateButton.setText("Add");
