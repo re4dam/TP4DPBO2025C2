@@ -27,4 +27,4 @@ Memilih data terlebih dahulu. Opsi Delete akan muncul. Formulir Data terisi deng
 Setelah melakukan salah satu perintah di atas (`Add`, `Update`, ataupun `Delete`). Formulir akan dibersihkan datanya sehingga tidak ada satu pun nilai yang mengisi kolom formulir tersebut.
 
 ## Dokumentasi
-[!][GIF](screenrecord/dokumentasi.gif)
+![GIF](screenrecord/dokumentasi.gif)
