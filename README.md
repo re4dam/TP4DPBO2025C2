@@ -4,10 +4,10 @@ Saya Zaki Adam dengan NIM 2304934 mengerjakan Tugas Praktikum 4 dalam mata kulia
 ## Desain Program
 Aplikasi ini merupakan interface dengan Java Swing GUI untuk mengelola data mahasiswa yang meliputi NIM, nama, kelamin, dan status keaktifan. Aplikasi ini berkemampuan untuk menambah, memperbarui, dan menghapus data-data mahasiswa.
 
-### Mahasiswa.java
+### Class Mahasiswa
 Merupakan class untuk data mahasiswa yang terdiri dari atribut `nim`, `nama`, `jenis kelamin`, `status mahasiswa`. Class ini memiliki getter dan setter untuk masing-masing atribut dalam class tersebut.
 
-### Menu.java
+### Class Menu
 Merupakan class graphics user interface untuk program ini. Class ini juga dapat `Add`, `Update`, dan `Delete` data yang ada.
 
 ## Penjelasan Alur
