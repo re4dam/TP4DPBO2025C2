@@ -8,7 +8,7 @@ Aplikasi ini merupakan interface dengan Java Swing GUI untuk mengelola data maha
 Merupakan class untuk data mahasiswa yang terdiri dari atribut `nim`, `nama`, `jenis kelamin`, `status mahasiswa`. Class ini memiliki getter dan setter untuk masing-masing atribut dalam class tersebut.
 
 ### Class Menu
-Merupakan class graphics user interface untuk program ini. GUI meliputi dari TextLabel, TextForm, Button, Tabel, ComboBox, dan RadioButton. Class ini juga dapat `Add`, `Update`, dan `Delete` data yang ada.
+Merupakan class graphics user interface untuk program ini. GUI meliputi dari JPanel, JLabel, JTextField, JButton, JTabel, JComboBox, dan JRadioButton. Class ini juga dapat `Add`, `Update`, dan `Delete` data yang ada.
 
 ## Penjelasan Alur
 ### 1. Inisialisasi
